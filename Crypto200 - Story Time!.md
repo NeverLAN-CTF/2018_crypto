@@ -1,8 +1,10 @@
-Name: Story Time!
+# Name
+Story Time!
 
-Value: 200
+# Value
+200
 
-Challenge:
+# Challenge
 Are you ready for a story?
 
 
@@ -10,11 +12,15 @@ Encrpyted message:
 -5.;56* 76†† ?)8† ;48 3‡0† 2?3 -6.48( ;‡ 46†8 ;48 0‡-5;6‡* ‡1 46) ;(85)?(8 6* 5 );‡(: ](6;;8* 2: 8†35( 5005* .‡8 6* 1053 6) .6(5;8)5*††5338()
 
 
-HINTS_____________________________________________________________________
-
-Hint:The Raven's Poet
+# HINTS
 
 
+Hint:The Raven's Poet 50pts
+
+# Flag
+flag{piratesanddaggers}
+
+# Walk Through
 Decrypted message:
 
 Captain kidd used the gold bug cipher to hide the location of his treasure in a story written by edgar allan poe in 1843! flag is piratesanddaggers 
