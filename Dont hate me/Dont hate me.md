@@ -11,6 +11,9 @@ This Message just might make you crazy. Lets take a stroll through the cipher hi
 Good luck and have fun.
 Author: s7a73farm
 
+file: this_is_insane3.zip
+
+
 # Hints
 hint:That Zip is password protected Im telling you that youwillneverguessme
 
