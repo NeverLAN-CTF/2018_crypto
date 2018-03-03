@@ -19,15 +19,4 @@ There are layers - 25 pts
 # Flag 
 flag{welcome to the world of cryptography}
 
-# WALK Through#######
-base64:
-Tmh5b2IgdmZzIGEgY2N5IGR2IHZqaGV6bXYgYnltdyBkZWNyIHhmZ3YgaCBkZmhwcmdjIHZvZXF0aiBkb21tIGdjIGhrcnNkZHcgcnIgemJ1IGdoa3FiIHB6IG5jbHhxZHd0cHVxcg==
 
-
-Chaocipher:
-Nhyob vfs a ccy dv vjhezmv bymw decr xfgv h dfhprgc voeqtj domm gc hkrsddw rr zbu ghkqb pz nclxqdwtpuqr
-
-
-There are a lot of ciphers that look like a caesars cipher flag is welcome to the world of cryptography
-
-flag{welcome to the world of cryptography}
