@@ -20,9 +20,3 @@ Hint:The Raven's Poet 50pts
 # Flag
 flag{piratesanddaggers}
 
-# Walk Through
-Decrypted message:
-
-Captain kidd used the gold bug cipher to hide the location of his treasure in a story written by edgar allan poe in 1843! flag is piratesanddaggers 
-
-flag{piratesanddaggers}
